@@ -19,6 +19,7 @@ a{
   height: 50px;
   
 }
+
 .view-history{
 color: #777 ; 
 font-size: 0.875rem;
@@ -42,4 +43,23 @@ font-size: 0.875rem;
 .arrows:hover{
   color: #15803d;
   transition:150ms all ease-in-out;
+}
+.product{
+  background: #fff;
+  border-radius: 9999px;
+  width: 4rem; 
+  height: 4rem; 
+  padding: 0.5rem; 
+  margin-left: 5px;
+}
+.mobile{
+  display: none;
+}
+.bm-burger-button {
+  position: fixed;
+  width: 36px;
+  height: 30px;
+  right: 5px;
+  top: 10px;
+  
 }
